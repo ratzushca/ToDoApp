@@ -1,0 +1,117 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+    background-image: url("images/I\ love\ this\ game\,funny\ GIFs.gif");
+    background-repeat: no-repeat;
+    
+    background-size: 100%;
+}
+label{
+    color:white;
+    font-family: Arial Black;
+    text-shadow: 
+        -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 
+        -1px -1px black, 1px 1px black, -1px 1px black, 1px -1px black;
+    font-size: 50px;
+    font-weight: bolder;
+    font-weight: 900;
+}
+.possition{
+    text-align: center;
+    margin-top: 100px;;
+    box-sizing: border-box;
+}
+
+
+
+#todo{
+    
+    background-color:#FFF;
+    border: 5px solid wheat;
+    border-radius: 25px;
+    width: 50em;
+    height: 5em;    
+}
+
+
+h3{
+    color:white;
+    font-family: Arial Black;
+    text-shadow: 
+        -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 
+        -1px -1px black, 1px 1px black, -1px 1px black, 1px -1px black;
+    font-size: 50px;
+    font-weight: bolder;
+    font-weight: 900;
+
+}
+
+
+.addButton{
+background-color: #5d6648;
+width: 10em;
+height: 5.5em;
+
+  border-radius: 4px;  
+  color: #fff;
+  cursor: pointer;
+  padding: 8px 16px;
+}
+#delete{
+    background-color: #5d6648;
+    width: 10em;
+    height: 5.5em;
+    
+      border-radius: 4px;  
+      color: #fff;
+      cursor: pointer;
+      padding: 8px 16px;  
+}
+
+
+p {
+    color: turquoise;
+    font-family: Arial Black;
+    text-shadow: 
+        -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 
+        -1px -1px black, 1px 1px black, -1px 1px black, 1px -1px black;
+}
+ 
+ul{
+    
+   font-size: larger;
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+  
+  }   
+
+ 
+li{
+    list-style: none;
+    text-align: left;
+    display: list-item;
+    margin: 0 auto;
+    padding:15px;
+    background-color:#FFF;
+    margin:0 25px 10px 0;
+    border:1px solid #BDC3C7;
+    border-radius:5px;
+    width: 50em;
+  }
+
+li:hover {
+    background-color:#BDC3C7;
+  }
+
+
+
+ 
+
+
+
+ 

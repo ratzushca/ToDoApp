@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" name="viewport" content="initial-scale=1">
+    <title> To-Do-App </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+
+<body>
+
+<main class ="possition">
+
+    <label for="todo">What I need to do:</label>
+    <br></br>
+    <div Id = "form">
+        <input type="text"  id="todo"  placeholder="Type item & press Add" required>
+        <button onclick="addItem()" id = "showText" class = "addButton">Add</button>
+        <button onclick="removeItem()" Id="delete">Delete</button>
+  
+    <h3> My items</h3>
+   
+        <ul  id="ul">
+             
+        </ul>
+      
+    </div>
+</main>
+
+</body>
+<script src="script.js" ></script>
+</html>
