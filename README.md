@@ -1,6 +1,6 @@
 # ToDoApp
 
-This is a simple ToDo Application that helps the user to log tasks that he/she can mark as completed or deletem entirely.
+This is a simple ToDo Application that helps the user to log tasks that he/she can mark as completed or delete them entirely.
 
 ToDo app was built using vinilla Javascript, HTML and CSS.
 
