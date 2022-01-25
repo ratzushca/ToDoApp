@@ -14,11 +14,13 @@
 
     <label for="todo">What I need to do:</label>
     <br></br>
-    <div Id = "form">
-        <input type="text"  id="todo"  placeholder="Type item & press Add" required>
-        <button onclick="addItem()" id = "showText" class = "addButton">Add</button>
-        <button onclick="removeItem()" Id="delete">Delete</button>
-  
+    <form Id = "form">
+        <input type="text"  id="todo" placeholder="Type item & press Add" required>
+       
+        <button  id = "showText" class = "addButton">Add</button>
+        <button  id="delete">Delete all Todo</button>
+    </form>
+     <div>   
     <h3> My items</h3>
    
         <ul  id="ul">
