@@ -7,7 +7,8 @@ ToDo app was built using vinilla Javascript, HTML and CSS.
 LINK: https://ratzushca.github.io/ToDoApp/
 
 UI
-<img width="1141" alt="Screenshot 2022-01-23 at 7 43 10 PM" src="https://user-images.githubusercontent.com/93014061/150909629-0c6a2d86-5056-4ada-a856-95c8648aa4c2.png">
+<img width="1212" alt="Screenshot 2022-01-24 at 7 58 35 PM" src="https://user-images.githubusercontent.com/93014061/150909818-ef88180f-e0b3-40b5-ae74-fd59dd2c477c.png">
+
 
 USAGE
 1. Type a to-do item into the input filed and click "Add".
