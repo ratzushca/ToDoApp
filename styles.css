@@ -34,7 +34,10 @@ label{
     width: 50em;
     height: 5em;    
 }
-
+ 
+.todoLineThrough {
+    text-decoration: line-through;
+}
 
 h3{
     color:white;
@@ -70,6 +73,14 @@ height: 5.5em;
       padding: 8px 16px;  
 }
 
+
+ul li button{
+    color: black;
+    background-color:red;
+    font-weight:bolder ;
+    border-radius: 8px;
+    float: right;
+}
 
 p {
     color: turquoise;
