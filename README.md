@@ -1,15 +1,13 @@
 # ToDoApp
 
-
 This is a simple ToDo Application that helps the user to log tasks that he/she can mark as completed or deletem entirely.
 
 ToDo app was built using vinilla Javascript, HTML and CSS.
 
-Link: https://ratzushca.github.io/ToDoApp/
+LINK: https://ratzushca.github.io/ToDoApp/
 
 UI
-
-
+<img width="1141" alt="Screenshot 2022-01-23 at 7 43 10 PM" src="https://user-images.githubusercontent.com/93014061/150909629-0c6a2d86-5056-4ada-a856-95c8648aa4c2.png">
 
 USAGE
 1. Type a to-do item into the input filed and click "Add".
