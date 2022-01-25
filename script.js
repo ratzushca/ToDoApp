@@ -54,7 +54,7 @@ function removeLi(e){
     const elements = document.getElementById('ul');
 
     // if the clicked tag is a button...
-    if (tgt.tagName === "BUTTON" && elements.className === 'todoLineThrough') {
+    if (tgt.tagName === "BUTTON" && !tgt.parentElement.classList.contains('todoLineThrough')) {
       // Find the closest <li> to the clicked button and remove it
       tgt.closest('li').remove();
     }
